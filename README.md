@@ -23,6 +23,16 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2306.15245-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2306.15245)  [![slides](https://img.shields.io/badge/slides-blue)](https://drive.google.com/file/d/1ArAFG2MU0ek5bIqYiWUiJ4x3msieo04g/view?usp=sharing)  
 
+
+## Updates
+1. [Aug. 28th] Fixed an [issue](https://github.com/renll/C-PMI/issues/1) on incomplete context and achieved better average scores with the following table:
+   
+| Metrics         | Interesting | Fluent | Engaging | Specific | Relevant | Correct | Appro. | Und.  | Avg. |
+|-----------------|-------------|--------|----------|----------|----------|---------|--------|-------|------|
+| FED + C-PMI-SYM | 48.4        | 16.6   | 36.9     | 28.0     | 10.5     | 14.8    | 17.9   | 10.7  | 23.0 |
+| FED + C-PMI     | 48.2        | 17.6   | 37.0     | 28.7     | 12.8     | 17.6    | 18.1   | 11.1  | 23.9 |
+
+
 ## Abstract 
 
 We propose a novel model-agnostic approach that
