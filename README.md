@@ -25,7 +25,7 @@
 
 
 ## Updates
-1. [Aug. 28th] Fixed an [issue](https://github.com/renll/C-PMI/issues/1) on incomplete context and achieved better average scores with the following table:
+1. [Aug. 28th] Fixed an [issue](https://github.com/renll/C-PMI/issues/1) on incomplete context and achieved better average scores! Details in the following table:
    
 | Metrics         | Interesting | Fluent | Engaging | Specific | Relevant | Correct | Appro. | Und.  | Avg. |
 |-----------------|-------------|--------|----------|----------|----------|---------|--------|-------|------|
